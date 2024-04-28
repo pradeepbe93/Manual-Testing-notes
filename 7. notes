@@ -1,0 +1,77 @@
+1.)  what is compatability testing ?
+		
+				.compatability testing  is the part of Non functional testing
+				.Testing the application in diffrent browsers ,diffrent versions of browsers 
+					diffrent operating system & diffrent mobile
+					
+2.)  Diffrent types of compatability testing ?
+						a.) Browser compatability
+										Testing the application in diffrent browsers
+						 example : Google chromre, mozila firefox, microsoft edge, internet explorer,safari
+										 
+						b.) Browser versions
+										Testing the application in diffrent versions of browsers
+										
+						c.) Operating system 
+										Testing the application in diffrent operating systems
+										 example : windows , apple,linux & ubuntu
+										 
+						d.) Mobile device compatability
+										Testing the application in diffrent mobile devices
+										
+						e.) operating system version compatability
+										Testing the application in diffrent version of operating system
+										  example : windows 8 , windows 10
+										  
+										  
+3.) What is usability Testing ?	
+						
+						Testing the application to check 
+						   1.) How user friendly the application 
+						   2.) How easy to use the application
+						   3.) How easy to learn the application
+				example : proper messages , tooltip, font size, font colour, alignment etc 
+
+4.) What is Accessibilty Testing ?
+
+					. It is the part of usability testing 
+					. Testing the application to check How user friendly the application is for disable people
+					
+5.) What is Database testing ?
+						Testing the database using SQL  language (Structured Query Language) 
+						for creating listing, updating , deleting particular data in database
+						
+6.) What is Security Testing (or) penetration Testing (or) Vulnerabilty Testing ?
+
+				 . It is used to test the security of application
+				  like authentication,authorization & confidentiality  QR code, Fingerpoint, OTP , Captcha etc
+
+															(or)
+			    . It is used to test the vulnerablities of application & check its data & resources are protected
+							 
+7.)Security Releated Term:
+								a.)confidentiality : Data should be confidential
+								
+								b.) Authentication : checking the user access based on userrname & password
+								
+								c.) Authorization : checking the user access based on privilages
+								
+								d.) captcha : It is the part of additional security 
+												It is used to ensure the accessed user is not a robot or a tool
+												
+								e.)  OTP : It is the part of additional security 
+
+								f.) VAPT : (Vulnerabilty Assesment & penetration Testing)
+
+								G.) OWASP : ( open web application security project)
+								
+8.) Security Testing Tools: 
+			1.) vega 
+			2.) zenmap
+			3.) N map 
+			4.) Burpsuit
+			5.) Nessus	
+												
+							 
+							 
+							 
