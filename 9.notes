@@ -1,0 +1,69 @@
+1. RTM (Requirement Traceability Matrix)
+		RTM is 
+			1.) RTM map requirements with the test cases
+				2.) It is used to ensure the test case coverage
+					3.) Test case coverage : to ensure we have prepare test case for all features
+			
+
+2.	What is test plan ?	
+			what all the things , we are going to test will comes under test plan documents
+			
+3.	what is Test strategy ?
+				How we are going to test will comes under test strategy documents
+				
+4.	what are the contents of the text plan documents ?
+			> Test scope
+			> Test out of scope
+			> Test objective
+			> Test strategy
+			> Test Approach
+			> Assumption
+			> Test criteria
+			> Entry criteria
+			> Exit criteria
+			> suspension criteria
+			> Risk
+			> Resource planning
+			> Test schedule
+			> Test Milestone
+			> Test estimation
+			> Test environment
+			> Bug reporting
+			
+5. Risk
+				Risk is a problem if it happen  then it will effect the project very badly
+				
+			example : 
+						1. Tight schedule
+						2. client changing the requirements frequently
+						3. New tool implementation
+						
+6. Test scenario : 
+					. It is a one line description of what you are going to test
+					
+7. Test case :
+					. It is the detailed description of test scenario with test steps , test data & expected results
+					
+					
+					
+8. Test certificate : 
+				 certificate given to the project manager or client by the testing team after meeting the exit criteria
+		
+		
+9. Test Metrics :
+					It is the measuremennt to identify the quality of the software
+					
+					Example: 
+							. Total number of test cases prepared
+							. Total number of test cases executed 
+							. Total number of test cases not executed
+							. Total number of test case passed
+							. Total number of test case failed
+							. Total number of bugs reported
+							
+							
+							
+							
+						
+			
+					
