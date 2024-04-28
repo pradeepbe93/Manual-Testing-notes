@@ -1,0 +1,78 @@
+13/02/2024
+
+1.) Test clousure Activity:
+					After executing the test cases we need to prepare
+					
+					1. Test Report
+					2. Bug Report
+					3. Test Configuration
+					4. Test Metrics
+					5. RTM(Requirement Traceability Matrix)
+					
+2.) HTTP
+		 . Hypertext Transfer Protocol
+		 . Insecured
+	     . No Encryption
+		 . No certification needed
+	HTTPS
+		 . Hypertext Transfer Protocol Secured
+		 . Secured
+		 . Encryption
+		 . certification needed
+		 
+3.) Defect : Problem in the application identified & reported by developer
+	
+	Bug : Problem in the application identified & reported by testing team
+
+	Error (or) Failure : Problem in the application identified & reported by client
+
+4.) Bug : After executing the test cases 
+			if the expected result is not matching with actual result
+			then the status became fail & then it is a bug
+			
+			
+5.) Test suite
+				It is a group of test cases
+				
+6.) How will you Estimate a feature ?
+					After analyazing the requirements based on the complexity of the requirements
+					
+7.) End to End Testing (E to E testing)
+						Testing the end to end functionality and non functionality of the application 
+						
+						It includes software ,hardware,network,database,input output devices , servers & tools etc
+						
+						
+8.) Test script
+			
+			. Test steps in manual testing
+			. It is short program to test the functionality in automation testing
+			
+9.) Latent Bug
+				Bug which has been in the application for long time but it is identified now
+				
+				. Fuzzy Testing(Negative testing)
+				. Random Testing(Adhoc testing)
+				
+				
+10.)	7 principles of software testing
+		  . Testing shows presence of defects
+		  . Exhaustive testing is not possible
+		  . Early testing
+		  . Defect clustering
+		  . pesticide paradox
+		  . Testing is context dependent
+		  . Absence of error fallacy
+						
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+			
+									
